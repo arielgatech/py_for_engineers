@@ -6,3 +6,14 @@ source: http://pandas.pydata.org/
 
 Pandas is an elegent way to perform data processing and very similar to data frame within R.  Although it has some version issue (make sure you always have the latest version), but it is mostly okay if you are using Python under Anaconda based on my personal experience.
 Pandas can be used together with other popular package, such as numpy, scipy and matplotlib. You can easily convert pandas dataframe into most other data structure, and vice versa.  
+
+2. The second package is seaborn.  The package is built on famous visualization package "matplotlib", but more focused on statistical analysis and visualization. 
+
+Potential future updates:
+1. Numpy
+2. Scipy
+3. Geopandas
+4. Sqlite
+5. PyQt5
+6. TBD...
+
