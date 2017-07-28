@@ -5,4 +5,4 @@ The tutorial will cover popular Python packages, such as numpy, pandas and matpl
 source: http://pandas.pydata.org/
 
 Pandas is an elegent way to perform data processing and very similar to data frame within R.  Although it has some version issue (make sure you always have the latest version), but it is mostly okay if you are using Python under Anaconda based on my personal experience.
-Pandas can be used together with other popular package, such as numpy, scipy and matplotlib. You can easily convert pandas dataframe into most other data structure, vice versa.  
+Pandas can be used together with other popular package, such as numpy, scipy and matplotlib. You can easily convert pandas dataframe into most other data structure, and vice versa.  
