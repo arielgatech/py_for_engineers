@@ -17,3 +17,13 @@ Potential future updates:
 5. PyQt5
 6. TBD...
 
+Potential statistical analysis covered:
+1. Linear regression
+2. ANOVA
+3. Generalized regression
+4. PCA
+5. Cluster analysis
+6. Tree
+7. SVM
+8. Bootstrap
+9. TBD...
